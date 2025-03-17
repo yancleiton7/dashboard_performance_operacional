@@ -32,8 +32,10 @@ Os dados são carregados a partir do arquivo **`dataset.xlsx`** e **`redes.xlsx`
 ### 1️⃣ Importação dos Dados:  
 - Arquivos: **`dataset.xlsx`** e **`redes.xlsx`** 
 
-
 ---
+### Modelo de Dados:  
+
+![alt text](./screenshots/model.png "Modelo de dados")
 
 ## 📊 Visualizações do Dashboard  
 
@@ -60,3 +62,4 @@ Os dados são carregados a partir do arquivo **`dataset.xlsx`** e **`redes.xlsx`
 
 ---
 
+PS.: Todos os dados foram anonimizados e os resultados alterados para não comprometer a segurança ou estratégia de negócio.
